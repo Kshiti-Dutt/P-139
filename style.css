@@ -1,0 +1,42 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3
+{
+   display: inline;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+
+.big_image
+{
+    width: 100%;
+}
+    
+.instruction_images
+{
+    display: inline-block;
+    width: 45%;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+#footer
+{
+    bottom: 0;
+    position: fixed;
+    background-color: honeydew;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+}
